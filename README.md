@@ -32,6 +32,6 @@ The graph helped to show just how many more people found it not rude at all to c
 with people compared to both the _somewhat_ and _very rude_.
 
 A picture of the graph is shown below. You can also view the [raw data](flying-etiquette-raw-data.csv)
-and the [pivot table](flying-etiquette-pivot-table) as well.
+and the [pivot table](flying-etiquette-pivot-table.csv) as well.
 
 ![This is a data wrapper chart](k3S9Y-fliers-opinions-on-if-it-is-rude-to-converse-with-neighboring-strangers-on-a-plane.png)
